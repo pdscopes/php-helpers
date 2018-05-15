@@ -9,13 +9,7 @@
             "email": "peter.scopes@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "files": ["helpers.php"]
-    },
-    "autoload-dev": {
-        "files": ["helpers-dev.php"]
+    "require": {
+        "php": ">=7.0"
     }
-
-
 }
