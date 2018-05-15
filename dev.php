@@ -41,6 +41,3 @@ if (!function_exists('vd')) {
         }
     }
 }
-
-
-dd('hello');
