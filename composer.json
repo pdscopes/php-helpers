@@ -1,0 +1,21 @@
+{
+    "name": "madesimple/php-helpers",
+    "description": "Small helper functions for different situations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Scopes",
+            "email": "peter.scopes@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["helpers.php"]
+    },
+    "autoload-dev": {
+        "files": ["helpers-dev.php"]
+    }
+
+
+}
